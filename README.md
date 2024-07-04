@@ -25,3 +25,15 @@ In our daily lives, the task of classifying diverse items into distinct categori
    ```bash
    git clone https://github.com/JoaoAssalim/Class-by-Description-Classifier-with-NLP.git
    ```
+
+## Available Implementations
+
+This repository includes three different approaches for implementing the model:
+
+- **`Sklearn`**: Implementation using traditional machine learning libraries.
+- **`TensorFlow`**: Implementation using TensorFlow for building and training neural network models.
+- **`Fine-tuning BERT`**: Implementation using the pre-trained model noneuralmind/bert-base-portuguese-cased for fine-tuning in Portuguese.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
